@@ -7,6 +7,6 @@ Simples exemplo de uso:
 
 [![Capturar.png](https://www.imagemhost.com.br/images/2021/04/27/Capturar.png)](https://www.imagemhost.com.br/image/2rcHMy)
 
-[![Capturar0c7edf264027c4db.png](https://www.imagemhost.com.br/images/2021/04/27/Capturar0c7edf264027c4db.png)](https://www.imagemhost.com.br/image/2r0R5C)
+[![Output.png](https://www.imagemhost.com.br/images/2021/04/27/Output.png)](https://www.imagemhost.com.br/image/2r1lOq)
 
 Caso o nome seja neuro como "Dominique", ele retorna o gênero que mais registrou o nome no Brasil. 
