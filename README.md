@@ -14,4 +14,5 @@ Caso o nome seja neuro como "Dominique", será retornado o gênero que mais regi
 # Obtendo a Api key
 
 *Crie uma conta no site Brasil.io: https://brasil.io/auth/entrar/. 
+
 *Se direcione para: https://brasil.io/auth/tokens-api/
