@@ -10,3 +10,6 @@ Simples exemplo de uso:
 [![Output.png](https://www.imagemhost.com.br/images/2021/04/27/Output.png)](https://www.imagemhost.com.br/image/2r1lOq)
 
 Caso o nome seja neuro como "Dominique", será retornado o gênero que mais registrou o nome no Brasil (apenas "M" ou "F"). 
+
+* Obtendo a Api key
+Para obter a api key, basta criar uma conta em:https://brasil.io/home/
