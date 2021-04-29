@@ -12,8 +12,9 @@ Simples exemplo de uso:
 Caso o nome seja neuro como "Dominique", será retornado o gênero que mais registrou o nome no Brasil (apenas "M" ou "F"). 
 
 # Dependências 
-* Requests  ]
-_pip install requests
+* Requests  
+
+_ pip install requests
 
 # Obtendo a Api key
 
