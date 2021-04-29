@@ -20,4 +20,4 @@ _pip install requests_
 
 * Crie uma conta no site Brasil.io: https://brasil.io/auth/entrar/. 
 
-* Se direcione para: https://brasil.io/auth/tokens-api/ e clique em "CRIAR NOVA CHAVE DE API".
+* Se direcione para https://brasil.io/auth/tokens-api/ e clique em "CRIAR NOVA CHAVE DE API".
