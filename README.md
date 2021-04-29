@@ -14,7 +14,7 @@ Caso o nome seja neuro como "Dominique", será retornado o gênero que mais regi
 # Dependências 
 * Requests  
 
-_ pip install requests
+_pip install requests_
 
 # Obtendo a Api key
 
